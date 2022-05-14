@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374458767828",
+    "project_id": "flash-chat-f8318",
+    "storage_bucket": "flash-chat-f8318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374458767828:android:aa160a0b0727e2e06f1e41",
+        "android_client_info": {
+          "package_name": "com.Endale.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374458767828-ok3r2660mqdhv88o1n6brbkp0rhmh724.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZWCKYH6DjjA13VhuQW3ZH3iuNeBomw8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374458767828-ok3r2660mqdhv88o1n6brbkp0rhmh724.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
